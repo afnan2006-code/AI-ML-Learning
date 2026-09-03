@@ -1,0 +1,11 @@
+```text
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+transformers
+huggingface-hub
+tokenizers
+safetensors
+```
